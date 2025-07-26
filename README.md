@@ -12,29 +12,16 @@ A project, where I assembled a Home automation setup using an ESP32 and a few se
 <h2>Sample Images</h2>
 <table>
   <tr>
-    <td><img width='600' src="https://github.com/user-attachments/assets/5a820418-c818-4047-85bf-25b2c6a36474"></td>
-    <td><img width='600' src="https://github.com/user-attachments/assets/b9048730-f3ee-45a7-afe3-7b884d9a8048"></td>
-    <td><img width='600' src="https://github.com/user-attachments/assets/70efc26c-891d-4f0d-be49-a7f819fbdb97"></td>
-    <td><img width='600' src="https://github.com/user-attachments/assets/895dea40-f3ac-42ff-9785-148e8afa9426"></td>
+    <td><img width='1080' src="https://github.com/user-attachments/assets/83d85eeb-a61b-4718-8926-eaeeb3663ef4"></td>
   </tr>
   <tr>
-    <td><img width='600' src="https://github.com/user-attachments/assets/1d233b96-5ec9-4ccb-a24e-f397b87c3e91"></td>
-    <td><img width='600' src="https://github.com/user-attachments/assets/39268c6b-ed3d-4c02-83f5-1b7847b14bc7"></td>
-    <td><img width='600' src="https://github.com/user-attachments/assets/77d39f65-0e9e-44f2-a347-f703620f80f2"></td>
-    <td><img width='600' src="https://github.com/user-attachments/assets/f4020573-e5ac-4128-b0c7-9b7ab9ce0050"></td>
+    <td><img width='1080' src="https://github.com/user-attachments/assets/b100bbf9-cfc4-452e-9a51-a07fcbc4439d"></td>
+  </tr>
+  <tr>
+    <td><img width='1080' src="https://github.com/user-attachments/assets/747ac91f-69f2-44ba-bbac-5e9c34847853"></td>
+  </tr>
+  <tr>
+    <td><img width='1080' src="https://github.com/user-attachments/assets/db11449b-aa87-4873-8750-0280091b8269"></td>
   </tr>
 </table>
-<table>
-  <tr>
-    <td><img width='600' src="https://github.com/user-attachments/assets/049764a7-f7fc-4c03-8e67-5e560c093a52"></td>
-    <td><img width='600' src="https://github.com/user-attachments/assets/6e70d72b-7e16-43aa-a433-96f16f7b0edd"></td>
-  </tr>  
-  <tr>
-    <td><img width='600' src="https://github.com/user-attachments/assets/86932db7-935d-448f-8aee-2405054386a9"></td>
-    <td><img width='600' src="https://github.com/user-attachments/assets/f623a6d0-35e0-462a-ba65-560f9c71a272"></td>
-  </tr>  
-  <tr>
-    <td><img width='600' src="https://github.com/user-attachments/assets/11963880-e6bb-4f46-8f79-9297eef6ee5a"></td>
-    <td><img width='600' src="https://github.com/user-attachments/assets/d37905fa-2ad0-4f8b-8985-5c042b5807fd"></td>
-  </tr>  
-</table>
+
